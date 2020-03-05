@@ -1,0 +1,33 @@
+{
+  "name": "react-native-sample-android-toast",
+  "title": "React Native Sample Android Toast",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-sample-android-toast.git",
+    "baseUrl": "https://github.com/github_account/react-native-sample-android-toast"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "RKVommi",
+    "email": "rajaneesh.vommi@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
