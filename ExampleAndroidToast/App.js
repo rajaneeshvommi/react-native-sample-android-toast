@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {StyleSheet, Text, TextInput, View, Button} from 'react-native';
 
-import RNNativeToastLibrary from "react-native-sample-android-toast";
+import RNNativeToastLibrary from "react-native-sample-android-toast-version10";
 
 export default class App extends Component {
 
